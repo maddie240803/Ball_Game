@@ -1,0 +1,27 @@
+# Unreal Engine Standard GitIgnore
+
+# Temporary folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+
+# Package builds
+Builds/
+
+# User-specific files
+MyProject.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docuser
+
+# Large asset files (If not using Git LFS)
+# *.uasset
+# *.umap
+
+# Crash reports
+CrashReportClient.ini
